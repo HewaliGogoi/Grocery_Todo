@@ -1,0 +1,58 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "title": "ttt",
+      "id": 2
+    },
+    {
+      "title": "tt",
+      "id": 3
+    },
+    {
+      "title": "tt",
+      "id": 4
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "todo": [
+    {
+      "title": "Tomato",
+      "status": false,
+      "id": 2
+    },
+    {
+      "title": "Potato",
+      "status": false,
+      "id": 3
+    },
+    {
+      "title": "Onion",
+      "status": false,
+      "id": 4
+    },
+    {
+      "title": "Carrot",
+      "status": false,
+      "id": 5
+    },
+    {
+      "title": "Turnip",
+      "status": false,
+      "id": 6
+    }
+  ]
+}
